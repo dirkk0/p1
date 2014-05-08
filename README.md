@@ -2,6 +2,9 @@
 
 > A Hello World application to get started with PhoneGap Build.
 
+With a little bit of pixi.js:
+http://jsfiddle.net/dirkk0/sD8Tt/1/
+
 ## Usage
 
 ### Run Application
